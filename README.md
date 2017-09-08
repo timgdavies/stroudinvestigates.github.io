@@ -1,1 +1,0 @@
-# stroudinvestigates.github.io
