@@ -1,0 +1,25 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// See https://github.com/pages-themes/cayman/blob/master/_sass/jekyll-theme-cayman.scss
+
+.page-header {
+  color: black;
+  text-align: center;
+  background-color: black;
+  background-image: url(/assets/img/old-map.png);
+
+  @include large {
+    padding: 1rem;
+  }
+
+  @include medium {
+    padding: 1rem;
+  }
+
+  @include small {
+    padding: 1rem;
+  }
+}
