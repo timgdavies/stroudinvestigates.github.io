@@ -14,6 +14,7 @@ layout: default
   </h2>
   <span class="post-meta">{{ post.date | date: date_format }}</span>
   <p> {{ post.excerpt }} </p>
+  <a href="{{ post.url | relative_url }}">Read more...</a>
   {% endfor %}
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>

@@ -5,6 +5,14 @@
 
 // See https://github.com/pages-themes/cayman/blob/master/_sass/jekyll-theme-cayman.scss
 
+.post-meta {
+  font-size: 0.8em;
+}
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+    color: black;
+}
+
 .page-header {
   color: black;
   text-align: center;
@@ -22,4 +30,20 @@
   @include small {
     padding: 1rem;
   }
+}
+
+figure {
+  font-size: 0.8em;
+  img {
+    display: block;
+  }
+  cite, figcaption {
+    display: inline;
+  }
+}
+
+div.standfirst {
+  font-weight: bold;
+  font-size: 1.1em;
+  line-neight: 1.2em;
 }
