@@ -96,7 +96,7 @@ building"
 ,STR/OF/01/11,Store 3 Old Town Hall,,High Street,,Stroud,GL5 1AP,385224,205224,Freehold,,,,Licence out,,,Land & buildings
 10014280671,STR/OF/01/11,Store 4 Old Town Hall,,High Street,,Stroud,GL5 1AP,385224,205224,Freehold,,,,Licence out,,,Land & buildings
 100121253988,STR/MA/01,The Shambles,,High Street,,Stroud,GL5 1AP,385211,205222,Freehold,,,,,,,Land
-100121374372,STR/MA02,Cornhill Market,,Union Street,,Stroud,GL5 2HE,385211,205084,Leasehold,,,,Licence out,,,Land & buildings
+100121374372,STR/MA/02,Cornhill Market,,Union Street,,Stroud,GL5 2HE,385211,205084,Leasehold,,,,Licence out,,,Land & buildings
 200003103845,STR/SH/01/01,Unit 1 Brunel Mall,,London Road,,Stroud,GL5 2BP,385184,204991,Freehold,,,Lease out,,,,Land & buildings
 200003122275,STR/SH/01/02,Unit 2 Brunel Mall,,London Road,,Stroud,GL5 2BP,385184,204991,Freehold,,,Lease out,,,,Land & buildings
 200003122279,STR/SH/01/03,Unit 3 Brunel Mall,,London Road,,Stroud,GL5 2BP,385184,204991,Freehold,,,Lease out,,,,Land & buildings
@@ -167,14 +167,14 @@ building"
 10014284220,BER/PL/01,Park View Road - land to the rear of,,Park View Road,,Berkeley,,367962,199172,Freehold,,,Lease out of part,,,,Land
 10014284154,CAM/PL/04,Springfields play area,,Springfields,Cam,Dursley,,374476,199595,Freehold,,,,,,,Land
 10014284166,COA/PL/01,Betworthy Estate open space,,Betworthy,Cam,Coaley,,377100,201552,Freehold,,,,,,,Land
-10001168191,DUR/PL03,Highfields playing field,,School Road,,Dursley,,376538,197582,Freehold,,,,,,,Land
+10001168191,DUR/PL/03,Highfields playing field,,School Road,,Dursley,,376538,197582,Freehold,,,,,,,Land
 ,HAM/PL/01,Court Mead playing field,,Court Mead,Stone,Berkeley,,368122,195169,Freehold,,,Lease out,,,,Land
 ,STR/PL/02,The Leazes recreation ground,,Far Leaze,,Stroud,,385726,205227,Freehold,,,,,,Management Agreement,Land
 ,STR/PL/03,Bisley Old Road recreation ground,,Bisley Old Road,,Stroud,,386775,205139,Freehold,,,Lease out of part,,,,Land
 10014284224,,Queens Drive play area,,Queens Drive,Cashes Green,Stroud,,383181,205538,Freehold,,,,,,,Land
 10014284272,,Pitman Place play area,,Pitman Place,,Wotton-Under-edge,,376187,192833,Freehold,,,,,,,Land
 10014284149,NOR/PL/01,Innocks Estate play area,,Innocks Estate,North Nibley,Dursley,,373926,195921,Freehold,,,,,,,Land
-10014284154,CAM/Pl/04,Tilsdown Close play area,,Tilsdown Close,Cam,Dursley,,374477,199596,Freehold,,,,,,,Land
+10014284154,CAM/PL/04,Tilsdown Close play area,,Tilsdown Close,Cam,Dursley,,374477,199596,Freehold,,,,,,,Land
 10014284223,DUR/PL/01,Rangers Avenue play area,,Rangers Avenue,,Dursley,,375936,197365,Freehold,,,,,,,Land
 10014284153,CAM/PL/03,Woodfield play area,,Hadley Road,Cam,Dursley,,374198,199789,Freehold,,,Lease out,,,,Land
 10090803958,MIN/PL/01,Glebe Road play area,,Glebe Road,Minchinhampton,Stroud,,387742,200846,Freehold,,,,,,,Land
