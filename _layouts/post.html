@@ -18,6 +18,9 @@ layout: default
     <span>
       <!-- Personal Info. -->
       by <a href="mailto:{{ author.email }}">{{ author.name }}</a>
+      {% if page.and_volunteers %}
+        and other Stroud Investigates volunteers
+      {% endif %}
     </span>
     {% endif %}
   </header>
