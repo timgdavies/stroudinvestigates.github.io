@@ -68,7 +68,7 @@ The **Full Council** will _not_ be involved.  Major decisions should
 be made by the democratically-elected representatives of every part of
 the District. This decision will not be referred to them.
 
-With these decision-making bodies mind, here are some further questions:
+With these decision-making bodies in mind, here are some further questions:
 
 ## Why have the activities of the T&F Group taken place in private?
 
