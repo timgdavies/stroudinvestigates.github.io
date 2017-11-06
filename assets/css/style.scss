@@ -5,30 +5,44 @@
 
 // See https://github.com/pages-themes/cayman/blob/master/_sass/jekyll-theme-cayman.scss
 
+html {
+  font-size: 18px;
+}
+
+body {
+  color: rgba(0,0,0,.84);
+  font-family: medium-content-serif-font,Georgia,Cambria,"Times New Roman",Times,serif;
+}
+
 .post-meta {
   font-size: 0.8em;
 }
 
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
-    color: black;
+  color: rgba(0,0,0,.84);
 }
 
 .page-header {
   color: black;
-  text-align: center;
-  background-color: black;
+  text-align: left;
   background-image: url(/assets/img/old-map.png);
 
   @include large {
-    padding: 1rem;
+    padding: 0;
+    height: 120px;
   }
 
   @include medium {
-    padding: 1rem;
+    padding: 0;
+    height: 100px;
   }
 
   @include small {
-    padding: 1rem;
+    padding: 0;
+    height: 70px;
+  }
+  img {
+    height: 100%;
   }
 }
 
