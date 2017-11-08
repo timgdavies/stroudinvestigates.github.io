@@ -9,7 +9,7 @@ Various bits of data and files that we've found on the way
 ## Documents relating to Sub Rooms sale
 * [Handout about the process from the Feb 2017 drop-in session](Stroud_sub_rooms_process.docx)
 * [Report from the drop-in day](dropin_day_feedback_report.docx) (which vanished from SDC website)
-
+* [Press release from various councillors re Sale](sub_rooms_alliance_press_release_2017_11_08.docx)
 
 ## SDC property register, Sept 2017
 * [original pdf](sdc_list_of_assets_2017_09_08.pdf) ([source](https://www.stroud.gov.uk/council-and-democracy/opendata/registers/council-property-register))
