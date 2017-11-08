@@ -76,7 +76,7 @@ This interpretation tallies with the [2016 Budget Consultation](https://www.stro
 
 Another bias in these surveys is that people with the time and money to attend events are more likely to respond.  Indeed, according to the “[Acorn](https://acorn.caci.co.uk/what-is-acorn)” [analysis of Sub Room attendees](https://www.stroud.gov.uk/media/241239/acorn-analysis-for-stroud-subsription-rooms.docx) carried out by the Council, the majority of Sub Rooms visitors are relatively wealthy compared with the population as a whole.
 
-However, there is still a wide range of different income levels represented, with about 50 per cent outside the wealthiest categories, and 20% coming from the lowest income categories:
+However, there is still a wide range of different income levels represented, with about 50 per cent outside the wealthiest categories, and 20 per cent coming from the lowest income categories:
 
 {% include image.html url="/assets/img/subroomsacorn.png" description="Acorn categories for Sub Rooms attendees" attribution='Published by <a href="https://www.stroud.gov.uk/sport-leisure-parks/events-and-things-to-do/subscription-rooms/subrooms-review">Stroud District Council</a>' %}
 
