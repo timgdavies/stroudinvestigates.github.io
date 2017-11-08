@@ -93,11 +93,11 @@ Council
 [have told us](https://www.whatdotheyknow.com/request/subscription_rooms_decision_proc#incoming-1050444) there
 are no formal decision criteria, because this "is not a procurement
 exercise". This is unfair to all parties. Even with the best of
-intentions, goal posts shift.  In the interests of fairness and
+intentions, goal posts can shift.  In the interests of fairness and
 transparency, **criteria should have existed and should have been
 public**, and made available before the bid process started.
 
-Finally, it appear that T&F Group meetings are **meetings of the
+Finally, it appears that T&F Group meetings are **meetings of the
 Council**. They are not pre-meetings, nor informal meetings. They have
 been supported by officers who have provided regular advice. The
 meetings **have not been compliant with the requirements for public
