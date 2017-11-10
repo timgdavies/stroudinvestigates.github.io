@@ -51,7 +51,7 @@ The one public statement we can find from Dale Vince ([on his personal Facebook 
 
 There are a few problems with this suggestion, and with covenants in general.
 
-1. The council is in **a poor position to negotiate** restrictive terms _after_ accepting a bid. No restrictions were mentioned during the sale process, so any company could quite reasonably refuse to accept any new terms.  Dale Vince has indicate his willingness to be a part of such discussions, but he has no incentive to concede any control, and the Council would hold very few cards by this stage.
+1. The council is in **a poor position to negotiate** restrictive terms _after_ accepting a bid, and it's not clear they're leaving enough time before the decision. No restrictions were mentioned during the sale process, so any company could quite reasonably refuse to accept any new terms.  Dale Vince has indicate his willingness to be a part of such discussions, but he has no incentive to concede any control, and the Council would hold very few cards by this stage.
 
 2. A covenant offering the Council "first right to buy the building" is **practically useless**, given the Council says it’s disposing of the building because it can’t afford to keep it.
 
@@ -69,9 +69,9 @@ One possibility is for the Town Council to become landlords, and **rent the spac
 
 Another possibility, which would give Ecotricity much more control, is to sell a **short-term lease** to the company. There is plenty of precedent for this.  For example, the leaseholds of schools and hospitals are commonly sold on 25 year terms under PFI contracts.  There would still be the short-term problem of ensuring public access during the lease, but medium-term the public interest could be revisited when the lease expires.
 
-A party associated with the bid has objected (on [Facebook](https://www.facebook.com/dale.vince/posts/515272895476034?comment_id=515517432118247&reply_comment_id=516165922053398&comment_tracking=%7B%22tn%22%3A%22R7%22%7D)) to this idea on the grounds that it "makes no commercial sense" to invest in a building you don’t own, because it wouldn’t count as an investment.
+A party associated with the bid has suggested (on [Facebook](https://www.facebook.com/dale.vince/posts/515272895476034?comment_id=515517432118247&reply_comment_id=516165922053398&comment_tracking=%7B%22tn%22%3A%22R7%22%7D)) that Ecotricity could not buy the leasehold because it "makes no commercial sense" to invest in a building you don’t own.
 
-But the Ecotricity bid was made because they **need a meeting space for staff**: any investment advantages would be a tiny bonus (it would only add about 0.7 per cent to their balance sheet). As staff accommodation, a short lease could present an excellent deal.  To illustrate:
+However, the Ecotricity bid was made because they **need a meeting space for staff**: any investment advantages would be a tiny bonus (it would only add about 0.7 per cent to their balance sheet). As staff accommodation, a short lease could present an excellent deal.  To illustrate:
 
 * There will be one-off costs to restore the building fabric; the [Stroud Trust bid](http://www.stroudtrust.org/plans.html) indicates the basic work might be around £150,000.
 * Suppose Ecotricity paid £100,000 for a 10 year lease
