@@ -32,7 +32,7 @@ This interpretation is wide of the mark: the feedback presented in the report wa
 
 ## The “information session” in February
 
-This was a drop-in event at the Sub Rooms, where the [future options](https://www.stroud.gov.uk/sport-leisure-parks/events-and-things-to-do/subscription-rooms/subrooms-review) were presented.  Written responses were gathered, but **no summary or results were published**.  _(UPDATE: since this article was published, the council published all three bids and the February consultation report [on their website](https://www.stroud.gov.uk/sport-leisure-parks/events-and-things-to-do/subscription-rooms/subrooms-review))_
+This was a drop-in event at the Sub Rooms, where the [future options](https://www.stroud.gov.uk/sport-leisure-parks/events-and-things-to-do/subscription-rooms/subrooms-review) were presented.  Written responses were gathered, but **no summary or results were published**.  _(UPDATE: since this article was published, the council published all three bids and **part** of the February consultation report [on their website](https://www.stroud.gov.uk/sport-leisure-parks/events-and-things-to-do/subscription-rooms/subrooms-review))_
 
 Luckily, we’ve obtained [a copy of the report](http://stroudinvestigates.co.uk/data/dropin_day_feedback_report.docx) (we’ve been told it briefly appeared on the Stroud District Council website, and then disappeared again).
 
