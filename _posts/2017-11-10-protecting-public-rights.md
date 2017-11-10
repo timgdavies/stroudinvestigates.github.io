@@ -85,7 +85,6 @@ But the Ecotricity bid was made because they **need a meeting space for staff**:
 * Do they consider convenants would be enough to protect the building and serviecs?
 * If so, will any covenants be stipulated *before* committing to a preferred bidder?
 * What do they think of the option of a short lease?
-* Will the council publish all bids, reports on the sale, T&R minutes or notes, and the final T&R briefing document, _well before_ the next drop in event?
 * Will there be a full council vote on the decision?
 
 **Come to the "information event"** on Saturday 18 November, from 9.30am at the Sub Rooms.
