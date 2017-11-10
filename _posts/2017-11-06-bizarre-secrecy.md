@@ -14,6 +14,8 @@ breached the lawful requirement for openness and transparency in local
 government decision making.
 </div>
 
+_UPDATE: since this article was published, the council published all three bids and the February consultation report [on their website](https://www.stroud.gov.uk/sport-leisure-parks/events-and-things-to-do/subscription-rooms/subrooms-review)._
+
 Last Wednesday, Stroud District Council were forced
 to
 [announce](http://www.bbc.co.uk/news/uk-england-gloucestershire-41832095) that
