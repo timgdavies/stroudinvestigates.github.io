@@ -6,7 +6,7 @@ author: seb_bacon
 and_volunteers: true
 ---
 <div class="standfirst">
-If you're wondering why the Ecotricity bid for the Sub Rooms has been recommended, you can now read <a href="https://www.stroud.gov.uk/media/519984/sdc-task-and-finish-group-report-sub-rooms-november-2017.pdf">the report explaining the decision</a>. We think the assessment isn't balanced.
+The report explaining the decision to recommend Ecotricity's bid for the Sub Rooms is <a href="https://www.stroud.gov.uk/media/519984/sdc-task-and-finish-group-report-sub-rooms-november-2017.pdf">now online</a>. We think the assessment isn't balanced.
 </div>
 
 
@@ -14,7 +14,7 @@ The report states the objectives of the Sub Rooms process as follows:
 
 1. To **improve cost effectiveness** for the public
 2. To keep the Sub Rooms **available to the public for cultural use** (although [as we've said before](http://stroudinvestigates.co.uk/subrooms/2017/11/07/where-are-the-sub-rooms-consultations.html), consultations have shown a strong preference for public _ownership_)
-3. To ensure that it is in the **economic, environmental or social well being** of the area. This is a [legal requirement](https://www.gov.uk/government/publications/disposal-of-land-for-less-than-the-best-consideration-that-can-reasonably-be-obtained-circular-06-2003) of selling the building under value.
+3. To ensure that it is in the **economic, environmental or social well being** of the area. This is a [legal requirement](https://www.gov.uk/government/p`ublications/disposal-of-land-for-less-than-the-best-consideration-that-can-reasonably-be-obtained-circular-06-2003) of selling the building under value.
 
 The [Task and Finish Group](http://stroudinvestigates.co.uk/subrooms/2017/11/06/bizarre-secrecy.html) considered three bids, and recommended the one from Ecotricity.  Not all the members of the group agreed with the decision, and you can read their reasoning [here](http://stroudinvestigates.co.uk/subrooms/2017/11/15/green-party-minority-opinion.html). In the interests of keeping this brief, we'll just consider the leading two contenders. According to the report, they both meet the first two objectives:
 
