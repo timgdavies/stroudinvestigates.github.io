@@ -10,28 +10,13 @@ The report explaining the decision to recommend Ecotricity's bid for the Sub Roo
 </div>
 
 
-The report states the objectives of the Sub Rooms process as follows:
-
-1. To **improve cost effectiveness** for the public
-2. To keep the Sub Rooms **available to the public for cultural use** (although [as we've said before](http://stroudinvestigates.co.uk/subrooms/2017/11/07/where-are-the-sub-rooms-consultations.html), consultations have shown a strong preference for public _ownership_)
-3. To ensure that it is in the **economic, environmental or social well being** of the area. This is a [legal requirement](https://www.gov.uk/government/p`ublications/disposal-of-land-for-less-than-the-best-consideration-that-can-reasonably-be-obtained-circular-06-2003) of selling the building under value.
-
-The [Task and Finish Group](http://stroudinvestigates.co.uk/subrooms/2017/11/06/bizarre-secrecy.html) considered three bids, and recommended the one from Ecotricity.  Not all the members of the group agreed with the decision, and you can read their reasoning [here](http://stroudinvestigates.co.uk/subrooms/2017/11/15/green-party-minority-opinion.html). In the interests of keeping this brief, we'll just consider the leading two contenders. According to the report, they both meet the first two objectives:
-
-* The [Stroud Trust bid](http://www.stroudtrust.org/plans.html) “seeks to promote arts and culture across the district; it seeks to retain public ownership of the premises; and provides a way in which the Council’s subsidy can be reduced”.
-* The [Ecotricity bid](https://www.stroud.gov.uk/sport-leisure-parks/events-and-things-to-do/subscription-rooms/subrooms-review) will “reduce the level of public subsidy … and bring a significant capital receipt to the Council”. The report expresses confidence that “it will be possible to ensure public access to arts and cultural facilities within this prominent building, continues for the foreseeable future” .
-
-
-We're not as confident as the authors about the latter point. The Ecotricity bid explicitly states that their offer is subject to “_no unreasonable or restrictive covenants or obligations_.”  And we’ve already described our [other concerns about the limitations of legal covenants](/subrooms/2017/11/10/protecting-public-rights.html). If used at all, convenants should be watertight and decided **in advance of accepting a bid**, not as part of a negotiation process, started after selecting the bidder.
-
-The inclusion of a capital receipt (i.e. the £300,000 payment from Ecotricity to the Council) in the definition of “cost effectiveness” is interesting, and we hope to explore that in a future post.  In the meantime, it is sufficient to note that **both bids** would result in a **£273,000 saving on expenditure each year**, while the Ecotricity bid would result in a greater capital receipt.
+The [Task and Finish Group](http://stroudinvestigates.co.uk/subrooms/2017/11/06/bizarre-secrecy.html) considered three bids, and recommended the one from Ecotricity.  Not all the members of the group agreed with the decision, and you can read their reasoning [here](http://stroudinvestigates.co.uk/subrooms/2017/11/15/green-party-minority-opinion.html). In the interests of keeping this brief, we'll just consider the leading two contenders.
 
 {% include image.html url="/assets/img/subrooms.jpg" description="Sub
 Rooms and forecourt" attribution='Photo by <a
 href="https://commons.wikimedia.org/wiki/File:Subscription_Rooms_-_geograph.org.uk_-_425314.jpg">Graham Thomas</a>' %}
 
-
-This article is about the third objective: ensuring the offer meets legal requirements. The report criss-crosses a lot of ground, but has a central theme: if the council awards the bid to the Stroud Trust, they could be legally exposed, whereas awarding it to Ecotricity would be safe.
+The report criss-crosses a lot of ground, but has a central theme: if the council awards the bid to the Stroud Trust, they could be legally exposed, whereas awarding it to Ecotricity would be safe.
 
 ## Meeting legal requirements
 
@@ -86,6 +71,12 @@ Making a side-by-side comparison is an impossible task, because the Ecotricity b
 In contrast, the Stroud Trust would manage the venue as a **full time arts and community centre**. The Trust has a clearly stated **strategic vision** and **continuous public access** would be central to this.
 
 All other things being equal, it seems at least _possible_ that a period of successful Trust ownership would give better economic and social outcomes than a period of successul Ecotricity ownership. _If_ the Trust bid is at greater risk of failure, _might_ this be balanced out by a grander vision of social and economic benefit?  This question should have been asked by the group, but there's no evidence it was.
+
+## Enforcing public access... again...
+
+The report also expresses confidence that “it will be possible to ensure public access to arts and cultural facilities within this prominent building, continues for the foreseeable future”, whatever the outcome. We're not as confident as the authors about that. The Ecotricity bid explicitly states that their offer is subject to “_no unreasonable or restrictive covenants or obligations_.”  And we’ve already described our [other concerns about the limitations of legal covenants](/subrooms/2017/11/10/protecting-public-rights.html). If used at all, convenants should be watertight and decided **in advance of accepting a bid**, not as part of a negotiation process, started after selecting the bidder.
+
+
 
 ## Some questions for the council
 
