@@ -80,7 +80,7 @@ The report also expresses confidence that “it will be possible to ensure publi
 
 ## Some questions for the council
 
-There's a "public information day" tomorrow (17 November) at the Sub Rooms, between 9.30am and 1.00pm. Go and let your concerns be heard.  Even better, write to your councillor [here](https://www.writetothem.com/?a=council).  Some questions you might want to ask:
+There's a "public information day" tomorrow (18 November) at the Sub Rooms, between 9.30am and 1.00pm. Go and let your concerns be heard.  Even better, write to your councillor [here](https://www.writetothem.com/?a=council).  Some questions you might want to ask:
 
 * How will they ensure **public access**? What legal advice have they be given about this?  Will they consider offering a freehold, rather than a leasehold?
 * Will they define the restrictions on the building’s use **before** starting negotiations with the preferred bidder? If not, why not?
