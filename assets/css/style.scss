@@ -19,9 +19,9 @@ body {
 }
 
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
-  color: rgba(0,0,0,.84);
+  color: rgba(0,0,0,.65);
+  font-weight: 550;
 }
-
 
 .main-content blockquote {
  color: rgba(0,0,0,.64);
@@ -65,4 +65,5 @@ div.standfirst {
   font-weight: bold;
   font-size: 1.1em;
   line-neight: 1.2em;
+  color: rgba(0,0,0,.6);
 }
