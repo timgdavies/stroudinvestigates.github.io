@@ -11,7 +11,7 @@ If the Sub Rooms are sold to a private company, its owner will control all publi
 
 {% include image.html url="/assets/img/bombshelter.jpg" description="An Air Raid shelter in front of the Sub Rooms during WW2. Without legal protection, private owners could permanently alter the nature of the square, or remove access permanently" attribution='Copyright Peckhams of Stroud Ltd. Found on the <a href="http://www.digitalstroud.co.uk/living-ww2-airraid">Digital Stroud </a> website' %}
 
-## The public want their access protected
+## Consultation suggests the leasehold should be protected
 
 The [available evidence](http://stroudinvestigates.co.uk/subrooms/2017/11/07/where-are-the-sub-rooms-consultations.html) shows that a majority of the public want the Sub Rooms to remain in public hands, although [the council](https://www.stroud.gov.uk/media/241244/item-8-stroud-subscriptions-rooms.pdf) and Dale Vince have stated _retaining public access_ is the most important thing.
 
@@ -33,7 +33,7 @@ There are also risks under the ownership of a benevolent owner. It’s not clear
 
 > ...we’re proposing to take all costs of running the building and to maintain at least as much public use of it as it has now.
 
-But without seeing the bid detail, it’s hard to test the assumptions behind this promise.  Running the venue _and_ using it as a staff meeting place could be a complex proposition.  For example:
+But without seeing the bid detail, it’s hard to check how realistic this promise is.  Running the venue _and_ using it as a staff meeting place could be a complex proposition.  For example:
 
 * The main upstairs room will be used by up to 700 staff during the week. This presumably means some kinds of daytime events (like the [Fabulous Sound Scapes](http://www.subscriptionrooms.org.uk/whats-on/fabulous-sound-machines/) exhibition) will no longer be possible. What about sound checks and setup for bands?
 * Will the traditional uses of the square (morris dancing, demos, Goodwill Evening) all be protected? How? What about if one of these clashes with a commercial event?  Could the square become a car park? Will the flower van still be allowed to use the forecourt?
@@ -45,21 +45,31 @@ What are the options?  We can think of three, but are not lawyers (if you are, p
 
 ### 1. Covenants
 
-The one public statement we can find from Dale Vince ([on his personal Facebook page](https://www.facebook.com/dale.vince/posts/515272895476034?comment_id=515406262129364)) about legal protections is:
+The Task and Finish Group recommendation recommending the Ecotricity bid proposes "_the imposition of restrictions .. and management covenants ... [and] overage provisions to cover the possibility of any alternative uses_"
+
+On the other hand, the [Ecotricity bid](https://www.stroud.gov.uk/sport-leisure-parks/events-and-things-to-do/subscription-rooms/subrooms-review) itself explicitly states that their offer is subject to "_no unreasonable or restrictive covenants or obligations_".
+
+The one public statement we can find from Dale Vince ([on his personal Facebook page](https://www.facebook.com/dale.vince/posts/515272895476034?comment_id=515406262129364)) about legal protections gives a hint of the kind of convenant he would consider reasonable:
 
 > We recognise the concern that one day we may choose or need to sell the Sub Rooms (though it’s totally not on our agenda) and I expect that if our bid is chosen ... we would sit down with SDC and cover issues like this with covenants. In this case it would be simple enough to require that SDC had first right to buy the building.
 
 There are a few problems with this suggestion, and with covenants in general.
 
-1. The council is in **a poor position to negotiate** restrictive terms _after_ accepting a bid, and it's not clear they're leaving enough time before the decision. No restrictions were mentioned during the sale process, so any company could quite reasonably refuse to accept any new terms.  Dale Vince has indicate his willingness to be a part of such discussions, but he has no incentive to concede any control, and the Council would hold very few cards by this stage.
+1. A covenant offering the Council "first right to buy the building" is **practically useless**, given the Council says it’s disposing of the building because it can’t afford to keep it.
 
-2. A covenant offering the Council "first right to buy the building" is **practically useless**, given the Council says it’s disposing of the building because it can’t afford to keep it.
+2. The council is in **a poor position to negotiate** restrictive terms _after_ accepting a bid, and it's not clear they're leaving enough time before the decision. No restrictions were mentioned during the sale process, so any company could quite reasonably refuse to accept any new terms.  Despite indicating a willingness to be a part of such discussions, Dale Vince has no incentive to concede any control, and the Council would hold very few cards by this stage.
 
-3. This suggestion is about ownership of the building, **not access**.  A covenant to protect specific parts of the building, at specific times of day, would be unusual, complex, and hard to agree (see point 1 above).
+3. This suggestion is about ownership of the building, **not access**.  A covenant to protect specific parts of the building, at specific times of day, would be unusual, complex, and hard to agree (see point 1 above).  Even if such a convenant could be agreed, it would also be difficult to pass on such obligations to any new owners.
 
 4. A covenant is of limited use in the current political and economic context.  Its enforcement would rely on the Council having the time, money, and political will to prosecute the other party. It seems unlikely that a future council would value public access rights over the **cost of legal action** against a large company.
 
-It is certainly _possible_ for a covenant-based approach to work, but the devil is in the details, and the details need to be thought through properly _in advance_.
+5. When a covenant _can_ be enforced, it's easiest when the buyer still owns the property, and the seller still exists as a legal entity. Neither of these is guaranteed. Ecotricity certainly won't own the building forever, and there is also a realistic possibility that the District Council [may no longer exist](http://www.stroudnewsandjournal.co.uk/news/10602359.SDC_conservatives_in_favour_of_unitary_authority/) in a few years.
+
+It may be _possible_ for a covenant-based approach to work, but the devil is in the details, and the details need to be thought through properly _in advance_.  The idea of _negotiating_ restrictive covenants with a potential buyer _after_ accepting their bid is **absurd**.
+
+**Overage**
+
+The Task and Finish Group report also recommends "overage provisions" to prevent future change of use. Overage is a legal provision allowing the seller to claw back payments if the buyer subsequently makes a profit on their land. It's unclear how such a provision could protect the public use of the building. Again, the council needs to make the detail (and legal basis) of any such provisions clear *before* accepting a bid.
 
 ### 2. Renting the building
 
@@ -68,6 +78,8 @@ One possibility is for the Town Council to become landlords, and **rent the spac
 ### 3. Selling a short lease
 
 Another possibility, which would give Ecotricity much more control, is to sell a **short-term lease** to the company. There is plenty of precedent for this.  For example, the leaseholds of schools and hospitals are commonly sold on 25 year terms under PFI contracts.  There would still be the short-term problem of ensuring public access during the lease, but medium-term the public interest could be revisited when the lease expires.
+
+Leases (long or short-term) confer other legal advantages to the freeholder. Whereas covenants are typically about land and access, leases commonly constrain the behaviour of leaseholderes.  Additionally, it is easy to ensure such constraints apply to future leaseholders, even if the lease is sold on.
 
 A party associated with the bid has suggested (on [Facebook](https://www.facebook.com/dale.vince/posts/515272895476034?comment_id=515517432118247&reply_comment_id=516165922053398&comment_tracking=%7B%22tn%22%3A%22R7%22%7D)) that Ecotricity could not buy the leasehold because it "makes no commercial sense" to invest in a building you don’t own.
 
