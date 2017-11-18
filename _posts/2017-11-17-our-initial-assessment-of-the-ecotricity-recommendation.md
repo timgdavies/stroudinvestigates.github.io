@@ -28,7 +28,7 @@ In contrast, the report states the Ecotricity bid:
 
 > would present the lowest financial risk of all bids to Stroud District Council, … [and would bring] sufficient social and economic benefits to the area to justify disposal at undervalue.
 
-**Financial risk** is mentioned a number of times in the report. What's implied is that high levels of financial risk will result in a failure to deliver economic or social interests.  However, relative risks and benefits of the two approaches relating to **economic or social benefit** are never addressed directly.
+**Financial risk** is mentioned a number of times in the report. The implication's that high financial risk may mean failure to deliver economic or social interests.  However, relative risks and benefits of the two approaches relating to **economic or social benefit** are never addressed directly.
 
 ## 1. What are the financial risks and benefits?
 
@@ -74,7 +74,7 @@ All other things being equal, it seems at least _possible_ that a period of succ
 
 ## Enforcing public access... again...
 
-The report also expresses confidence that “it will be possible to ensure public access to arts and cultural facilities within this prominent building, continues for the foreseeable future”, whatever the outcome. We're not as confident as the authors about that. The Ecotricity bid explicitly states that their offer is subject to “_no unreasonable or restrictive covenants or obligations_.”  And we’ve already described our [other concerns about the limitations of legal covenants](/subrooms/2017/11/10/protecting-public-rights.html). If used at all, convenants should be watertight and decided **in advance of accepting a bid**, not as part of a negotiation process, started after selecting the bidder.
+The report is confident that “it will be possible to ensure public access to arts and cultural facilities within this prominent building, continues for the foreseeable future”, whatever the outcome. We're not as confident as the authors about that. The Ecotricity bid explicitly states that their offer is subject to “_no unreasonable or restrictive covenants or obligations_.”  And we’ve already described our [other concerns about the limitations of legal covenants](/subrooms/2017/11/10/protecting-public-rights.html). If used at all, convenants should be watertight and decided **in advance of accepting a bid**, not evolved during a negotiation process with a bidder who's already been selected.
 
 
 
