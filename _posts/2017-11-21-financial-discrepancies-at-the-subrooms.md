@@ -31,9 +31,6 @@ Shortly after this, [someone went through the council's audited accounts](http:/
 What does the council expect the Sub Rooms to cost in 2017/18? In September 2017, the budget for the Sub Rooms was set at **£223,000**.
 
 
-
-
-
 # Why are the figures so confused?
 
 Take a look at the bar chart the council provided on its [Sub Rooms review page](https://www.stroud.gov.uk/sport-leisure-parks/events-and-things-to-do/subscription-rooms/subrooms-reviewxb):
@@ -47,12 +44,12 @@ To illustrate what we mean, we've fixed the graph (using numbers copied from the
 {% include image.html url="/assets/img/p_and_l_chart.png" %}
 
 
-What's even more confusing is that there are two sets of figures published at the same time, which don't agree with each other: the bar chart, and a [table of figures](https://www.stroud.gov.uk/media/241238/5-year-financial-breakdown-2011-12-to-2015-16.docx).   The red numbers in the two charts above illustrate the difference in loss between the two. Overall, in 2015/16, the total expenditure shown in the council's bar chart paints a picture that is **£52,000 worse** than the evidence in the table of figures.
+To make things worse, there were two sets of figures published at the same time, which don't agree with each other: the bar chart, and a [table of figures](https://www.stroud.gov.uk/media/241238/5-year-financial-breakdown-2011-12-to-2015-16.docx).   The following chart shows the difference between the two. Remember, these figures are from two data sources published _at the same time_, _by the same organisation_. They should match!
 
 
-{% include image.html url="/assets/img/p_and_l_table.png"  %}
+{% include image.html url="/assets/img/loss_discrepancies.png"  %}
 
-Please check our figures [here](https://docs.google.com/spreadsheets/d/1tu2ic08T0PyW-yWsFzayL-yrNxMTimoGHX-tRyxOs4Y/edit?usp=sharing) and let us know if we've made any mistakes!
+Given the different formats the information was published in, it's hard to be sure we've got this right. Please check our figures [here](https://docs.google.com/spreadsheets/d/1tu2ic08T0PyW-yWsFzayL-yrNxMTimoGHX-tRyxOs4Y/edit?usp=sharing) and let us know if we've made any mistakes.
 
 # Do the expenditure figures include things they shouldn't?
 
