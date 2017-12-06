@@ -37,7 +37,7 @@ What does the council expect the Sub Rooms to cost in 2017/18? In September 2017
 
 # Why are the figures so confused?
 
-Take a look at the bar chart the council provided on its [Sub Rooms review page](https://www.stroud.gov.uk/sport-leisure-parks/events-and-things-to-do/subscription-rooms/subrooms-reviewxb):
+Take a look at the bar chart the council provided on its [Sub Rooms review page](https://www.stroud.gov.uk/sport-leisure-parks/events-and-things-to-do/subscription-rooms/subrooms-review/background-information-subrooms-review):
 
 {% include image.html url="/assets/img/2011-subsidy.png" %}
 
