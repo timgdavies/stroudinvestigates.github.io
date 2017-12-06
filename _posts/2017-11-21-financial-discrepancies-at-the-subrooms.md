@@ -18,7 +18,7 @@ This is a vital question, but there are various figures scattered around reports
 
 In **January 2016**, the figure [being quoted by the council](http://www.stroudnewsandjournal.co.uk/news/14231234.Fears_for_future_of_Stroud_s_Sub_Rooms_as_government_cuts_hit_Stroud_District_Council/) in the local press was **£250,000**. By [October 2016](https://www.stroud.gov.uk/media/208609/item-8c-asset-reviews.pdf), this had spiralled to **£415,000**. Ever since, this figure has been circulated widely in the local media ([example](http://www.stroudnewsandjournal.co.uk/news/15512560.The_history_of_Stroud_s_iconic_Subscription_Rooms/)).
 
-The [bar chart](https://www.stroud.gov.uk/media/241237/5-year-summary-costs-graph.docx) presented at the consultation in **February 2017** repeated the **£415,000** figure. However, if you add up the numbers provided along with the chart, you get a figure of **£364,000** (of which more below).
+The [bar chart](https://www.stroud.gov.uk/media/241237/5-year-summary-costs-graph.docx) presented at the consultation in **February 2017** repeated the **£415,000** figure.
 
 In September 2016, the 2016/17 [budget](https://www.stroud.gov.uk/media/241587/item-7-budget-monitoring-report-2016-17-report-3.pdf) for the Sub Rooms, which you would think was based on the previous year's figures, was set at **£296,000**.
 
@@ -47,13 +47,6 @@ To illustrate what we mean, we've fixed the graph (using numbers copied from the
 
 {% include image.html url="/assets/img/p_and_l_chart.png" %}
 
-
-To make things worse, there were two sets of figures published at the same time, which don't agree with each other: the bar chart, and a [table of figures](https://www.stroud.gov.uk/media/241238/5-year-financial-breakdown-2011-12-to-2015-16.docx).   The following chart shows the difference between the two. Remember, these figures are from two data sources published _at the same time_, _by the same organisation_. They should match!
-
-
-{% include image.html url="/assets/img/loss_discrepancies.png"  %}
-
-Given the different formats the information was published in, it's hard to be sure we've got this right. Please check our figures [here](https://docs.google.com/spreadsheets/d/1tu2ic08T0PyW-yWsFzayL-yrNxMTimoGHX-tRyxOs4Y/edit?usp=sharing) and let us know if we've made any mistakes.
 
 # Do the expenditure figures include things they shouldn't?
 
