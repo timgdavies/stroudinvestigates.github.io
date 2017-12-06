@@ -8,8 +8,6 @@ and_volunteers: true
 
 Last week, the Stroud News and Journal published [a story](http://www.stroudnewsandjournal.co.uk/news/15672935.SDC_and_the_Subs__Confirmation_of_financial____discrepancies____and_public_anger_at_lack_of_consultation_leads_to_calls_to_suspend_the_review/) about financial "discrepancies" in the bid process.  Depending on what you read, the Sub Rooms might be costing anything from £170,000 to £415,000 a year.  Here are the facts as we know them.
 
-_UPDATE (27/11/2017): The [final report](https://www.stroud.gov.uk/media/557764/item-6-c-subscription-rooms-task-finish-group-final-report.pdf) for next week's meeting shows a loss of £194,000 for 2016/17. We believe this "corrected" figure **still** overstates the cost, by about £24,000!_
-
 # How much do the Sub Rooms cost the council?
 
 This is a vital question, but there are various figures scattered around reports and minutes, and in absence of detailed accounts, it's impossible to check any of them.
