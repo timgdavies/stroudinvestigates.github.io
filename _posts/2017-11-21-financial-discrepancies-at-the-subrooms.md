@@ -28,7 +28,7 @@ By November 2017, the report from the council Task and Finish group put the fina
 
 Shortly after this, [an investigation of the council's audited accounts](http://www.stroudnewsandjournal.co.uk/news/15672935.SDC_and_the_Subs__Confirmation_of_financial____discrepancies____and_public_anger_at_lack_of_consultation_leads_to_calls_to_suspend_the_review/) found that the true figure was in the region of **£170,000**.  This discrepancy was confirmed by the council, who started an investigation.  A week later, new figures for 2016/17 [were released](https://www.stroud.gov.uk/media/557764/item-6-c-subscription-rooms-task-finish-group-final-report.pdf) showing a cost of **£194,000**. The figure is £24,000 more than that identified by an independent analysis, but comes with no justification (though has since been doubled checked by a member of the community to their satisfaction).
 
-There's no available information about the investigation, or when it will be completed.
+There's no available information about the investigation, or when it will be completed.  _Update: in the committee meeting of 6 December, the Chief Executive of the Council confirmed this would be an independent, internal audit carried out by someone at the County Council._
 
 ## In 2017/18
 
